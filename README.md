@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @annaalouise
-- 👀 I’m interested in machine learning, big data, horseback-riding and reading.
-- 🌱 I’m currently learning PostgreSQL and Python for data analyzing.
-- 💞️ I’m looking to collaborate on anything! I'm open to everything.
+- 👀 I’m interested in machine learning, AI, video games, programming, data analysis and illustration
+- 🌱 I’m currently learning MongoDB and React!
+- 💞️ I’m looking to collaborate on anything! I'm open to any ideas.
 - 📫 How to reach me -> @aunnuh on twitter
 
 <!---
