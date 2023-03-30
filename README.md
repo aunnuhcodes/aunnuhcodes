@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on anything! I'm open to any ideas.
 - 📫 How to reach me -> @aunnuh on twitter
 
-[![Data Analysis](https://skillicons.dev/icons?i=postgres,matlab,py,r)](https://skillicons.dev)
+## **Data Analysis**
+[![Data Analysis](https://skillicons.dev/icons?i=postgres,matlab,py,r,figma&theme=light)](https://skillicons.dev)
 
 
 
