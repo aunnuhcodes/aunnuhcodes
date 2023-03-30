@@ -5,13 +5,13 @@
 - 📫 How to reach me -> @aunnuh on twitter
 
 ## **Data Analysis**
-[![Data Analysis](https://skillicons.dev/icons?i=postgres,matlab,py,r,figma&theme=light)](https://skillicons.dev)
+[![Data Analysis](https://skillicons.dev/icons?i=postgres,matlab,py,r)](https://skillicons.dev)
 
 ## **Programming**
-[![Programming](https://skillicons.dev/icons?i=cpp,py,vscode,visualstudio,vim,figma&theme=light)](https://skillicons.dev)
+[![Programming](https://skillicons.dev/icons?i=cpp,py,vscode,visualstudio,vim)](https://skillicons.dev)
 
 ## **Other Skills**
-[![Other Skills](https://skillicons.dev/icons?i=ps,linux,github,discord,figma&theme=light)](https://skillicons.dev)
+[![Other Skills](https://skillicons.dev/icons?i=ps,linux,github,discord)](https://skillicons.dev)
 
 
 <!---
