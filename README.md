@@ -1,6 +1,9 @@
+- ###Hello! I'm Anna 
+- 
+- 
 - 👋 Hi, I’m @annaalouise
 - 👀 I’m interested in machine learning, AI, video games, programming, data analysis and illustration
-- 🌱 I’m currently learning MongoDB and React!
+- 🌱 I’m currently working on advanced SQL and some small projects!
 - 💞️ I’m looking to collaborate on anything! I'm open to any ideas.
 - 📫 How to reach me -> @aunnuhcodes on twitter
 
