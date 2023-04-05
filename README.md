@@ -1,6 +1,6 @@
-- # Welcome to my page! 
-- 
-- 
+# Welcome to my page! 
+
+
 - 👋 Hi, I’m @annaalouise
 - 👀 I’m interested in machine learning, AI, video games, programming, data analysis and illustration
 - 🌱 I’m currently working on advanced SQL and some small projects!
