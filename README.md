@@ -1,5 +1,5 @@
 # Welcome to my page! 
-- 👋 Hi, I’m @annaalouise
+- 👋 Hi, I’m @aunnuhcodes
 - 👀 I’m interested in machine learning, AI, video games, programming, data analysis and illustration
 - 🌱 I’m currently working on advanced SQL and some small projects!
 - 💞️ I’m looking to collaborate on anything! I'm open to any ideas.
